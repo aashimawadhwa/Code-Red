@@ -1,3 +1,4 @@
+
 <h1 align="center">Code Red <img  width="100" height="80" src="https://github.com/technojam/Mind-Optimizers/blob/main/assets/logo.gif"/></h1>
 
 
